@@ -1,16 +1,19 @@
-## Hi there 👋
+### `Hey there!👋`
+I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software engineer student based in Belarus.
 
-<!--
-**ganda1fero/ganda1fero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Computer Science student at `BSUIR`  
+🏫 Faculty of Engineering and Economics (`EEF`)  
+💻 `ISAT` — Information Systems and Technologies  
+🚀 Interested in `developing` my `skills`
 
-Here are some ideas to get you started:
+### `Tech stack`
+- **Languages:** `C++` (primary), `Python` (scripting, data analysis), `Java` (starts at university)
+- **Core skills:** `OOP`, `STL`, `algorithms` and `data structures`
+- **Tools:** `Git`
+  
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)[![gmail](https://img.shields.io/badge/Gmail-%23eb4336?style=flat&logo=gmail&logoColor=white)](mailto:maksimpupenko.dev@gmail.com)
+
+</div>
