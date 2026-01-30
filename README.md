@@ -17,3 +17,9 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)[![gmail](https://img.shields.io/badge/Gmail-%23eb4336?style=flat&logo=gmail&logoColor=white)](mailto:maksimpupenko.dev@gmail.com)
 
 </div>
+
+##
+`Projects`
+- [EasyMenu](https://github.com/ganda1fero/EasyMenu)
+- [Course project](https://github.com/ganda1fero/OOP_course_project)
+- [EasyLogs](https://github.com/ganda1fero/EasyLogs_library)
