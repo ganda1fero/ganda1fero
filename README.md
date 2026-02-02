@@ -7,7 +7,7 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 🚀 Interested in `developing` my `skills`
 
 ### `Tech stack`
-- **Languages:** `C++` (primary), `Python` (scripting, data analysis), `Java` (starts at university)
+- **Languages:** `C++` (main), `Python` (scripting, data analysis), `Java` (starts at university)
 - **Core skills:** `OOP`, `STL`, `algorithms` and `data structures`
 - **Tools:** `Git`
   
