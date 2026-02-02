@@ -14,6 +14,8 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 <div align="center">
 
 ##
+`temporary problems` with **LinkedIn** and **email** (I'm trying to solve it as quickly as possible).
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)[![gmail](https://img.shields.io/badge/Gmail-%23eb4336?style=flat&logo=gmail&logoColor=white)](mailto:maksimpupenko.dev@gmail.com)
 
 </div>
