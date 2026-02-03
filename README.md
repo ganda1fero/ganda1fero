@@ -11,12 +11,12 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 - **Core skills:** `OOP`, `STL`, `algorithms` and `data structures`
 - **Tools:** `Git`
   
+##
 <div align="center">
 
-##
 `temporary problems` with **LinkedIn** and **email** (I'm trying to solve it as quickly as possible).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)[![gmail](https://img.shields.io/badge/Gmail-%23eb4336?style=flat&logo=gmail&logoColor=white)](mailto:maksimpupenko.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](www.linkedin.com/in/maksim-pupenko-744689398)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)[![gmail](https://img.shields.io/badge/Gmail-%23eb4336?style=flat&logo=gmail&logoColor=white)](mailto:makk2006xx@gmail.com)
 
 </div>
 
