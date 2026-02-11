@@ -16,12 +16,13 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 
 `temporary problems` with **LinkedIn** (I'm trying to solve it as quickly as possible).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)]()[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)
 
 </div>
 
 ##
 `Projects`
 - [EasyMenu](https://github.com/ganda1fero/EasyMenu)
+- [BitArray](https://github.com/ganda1fero/BitArray)
 - [Course project](https://github.com/ganda1fero/OOP_course_project)
 - [EasyLogs](https://github.com/ganda1fero/EasyLogs_library)
