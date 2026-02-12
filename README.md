@@ -17,7 +17,7 @@ I'm [Maksim](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/), a software 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat)](https://www.linkedin.com/in/maksim-pupenko-7b78913a9/)[![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/kygbof)
 </div>
 
----
+##
 `Projects`
 - [EasyMenu](https://github.com/ganda1fero/EasyMenu)
 - [BitArray](https://github.com/ganda1fero/BitArray)
